@@ -1,0 +1,16 @@
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\FunTimer.exe
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\FunTimer.pdb
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\GHIElectronics.TinyCLR.BrainPad.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\GHIElectronics.TinyCLR.Devices.Adc.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\GHIElectronics.TinyCLR.Devices.Gpio.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\GHIElectronics.TinyCLR.Devices.I2c.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\GHIElectronics.TinyCLR.Devices.Pwm.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\GHIElectronics.TinyCLR.Devices.Spi.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\GHIElectronics.TinyCLR.Native.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\bin\Debug\mscorlib.dll
+C:\Users\GHI\source\repos\FunTimer\FunTimer\obj\Debug\FunTimer.csprojAssemblyReference.cache
+C:\Users\GHI\source\repos\FunTimer\FunTimer\obj\Debug\FunTimer.csproj.CoreCompileInputs.cache
+C:\Users\GHI\source\repos\FunTimer\FunTimer\obj\Debug\FunTimer.csproj.CopyComplete
+C:\Users\GHI\source\repos\FunTimer\FunTimer\obj\Debug\FunTimer.exe
+C:\Users\GHI\source\repos\FunTimer\FunTimer\obj\Debug\FunTimer.pdb
